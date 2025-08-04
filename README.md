@@ -7,3 +7,8 @@ CLAUDE.md 文件中可以通过 @ 符号引用prompt 文件.
 
 `/memory` 命令可以查看加载了哪些memory 文件.
 
+
+## TODO
+
+- 弄一个user prompt，让claude code 忍受我的脾气
+
